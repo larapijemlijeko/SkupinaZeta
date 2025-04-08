@@ -1,2 +1,4 @@
 IME PRIIMEK; SOLSKI EMAIL; LOKALNA MAPA (poimenujete po zelji ampak najbolje bi bilo "test-Priimek")
 Uroš Seražin; uros.serazin@student.um.si; test-Serazin
+Siniša Todić; sinisa.todic@student.um.si; test-Todić
+Matevz Kovacic; matevz.kovacic@student.um.si; test-kovacic
