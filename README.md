@@ -25,23 +25,25 @@ How to navigate and manage a GitHub repository.
 Pred kloniranjem si nastavite svoj šolski email ter vaše ime na global configu od gita z naslednjimi ukazi: 
   (3 možni naćini (samo različen dostop do Git))
   #### 1 
-    z uporabo aplikacije "Git Bash" ki jo najdete na sistemu po naložitvi gita
+  z uporabo aplikacije "Git Bash" ki jo najdete na sistemu po naložitvi gita
   #### 2 
-    z uporabo visual studio code, v levem zgornjem kotu lahko najdete Terminal preko katerega lahko uporabljate git
+  z uporabo visual studio code, v levem zgornjem kotu lahko najdete Terminal preko katerega lahko uporabljate git
   #### 3
-    z uporabo ukazne vrstice vašega operacijskega sistema
-      ##### Windows
-        pritisnite ```Win + R```, v levem spodnjem kotu enkrana se vam bo pojavilo t.i. "Run" okno. 
-        V njem vpišete ali ```Powershell``` ali ```cmd```. Zaradi novosti in bolj konsistentnih posodobitev priporočam `Powershell`
-      ##### Mac
+  z uporabo ukazne vrstice vašega operacijskega sistema
+    ##### Windows
+      pritisnite ```Win + R```, v levem spodnjem kotu enkrana se vam bo pojavilo t.i. "Run" okno. 
+      V njem vpišete ali ```Powershell``` ali ```cmd```. Zaradi novosti in bolj konsistentnih posodobitev priporočam `Powershell`
+    ##### Mac
       Lahko v iskalnem oknju napišete ```Terminal``` ter tam uporabljate ukaze kot drugje.
   ### Naslednje ukaze morate napisai v terminalu vaše izbire
-    Nastavitev emaila: ```git config --global user.email "ime.priimek@student.um.si"``` (obvezno uporabite študentski email).
-    Nastavitev imena: ```git config --global user.name "Ime Priimek"``` (uporabite lahko tudi vzdevek).
-  ^^Zgornji ukazi so OBVEZNI za preverjanja sodelovanja pri predmetu
+   Nastavitev emaila: ```git config --global user.email "ime.priimek@student.um.si"``` (obvezno uporabite študentski email).
+   Nastavitev imena: ```git config --global user.name "Ime Priimek"``` (uporabite lahko tudi vzdevek).
+   ^^ Zgornji ukazi so OBVEZNI za preverjanja sodelovanja pri predmetu
   ### Ter končni korak je kloniranje repoziorija:
-    Clone this repository to your local machine using Git:
-    ```git clone https://github.com/VonnikTheFirst/SkupinaZeta.git```
-
+   Clone this repository to your local machine using Git:
+   ```git clone https://github.com/VonnikTheFirst/SkupinaZeta.git```
+Če imate težave me lahko dobite na discordu: Pomaranca(Uroš)
   
 ![git-commands](https://github.com/user-attachments/assets/36f61fca-ac05-41ba-aba5-11f3681b2689)
+
+
